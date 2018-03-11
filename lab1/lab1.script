@@ -1,0 +1,22 @@
+命令稿啟動於 2018年03月12日 上午 12:24:05
+]0;~
+[32mUSER@LAPTOP-DM45P6M9 [33m~[0m
+$ whoami:[K;pwd
+USER
+/home/USER
+]0;~
+[32mUSER@LAPTOP-DM45P6M9 [33m~[0m
+$ git config -l[C[C
+user.email=bill123871014@gmail.com
+user.name=chingfuwang
+]0;~
+[32mUSER@LAPTOP-DM45P6M9 [33m~[0m
+$ git clone ^V[K[K https://github.com/chingfuwang/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32mUSER@LAPTOP-DM45P6M9 [33m~[0m
+$ exit
+
+命令稿已於 2018年03月12日 上午 12:26:22
+ 完成
